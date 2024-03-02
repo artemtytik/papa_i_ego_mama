@@ -32,5 +32,9 @@ main h1{
 }
 li {
 list-style: url(https://learn.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg);
-font-size: 20PX;
+font-size: 20px;
+}
+main b {
+    font-size: 25px;
+    color: coral;
 }
